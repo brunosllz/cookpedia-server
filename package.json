@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev:start": "tsx watch ./src/server.ts",
     "dev:lint": "eslint src --ext .ts --fix",
+    "test": "vitest",
+    "test:watch": "vitest run",
     "start": "node build/server.js",
     "build": "tsup src --out-dir build"
   },
