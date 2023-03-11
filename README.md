@@ -12,7 +12,7 @@ Cookpedia.
 
 ## RNs (Regras de negócio)
 
-- [ ] O usuário não deve poder se cadastrar com um e-mail duplicado;
+- [x] O usuário não deve poder se cadastrar com um e-mail duplicado;
 - [ ] O usuário não deve poder cadastrar uma receita com o mesmo nome;
 
 
