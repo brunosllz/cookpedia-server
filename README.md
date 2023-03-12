@@ -20,4 +20,4 @@ Cookpedia.
 ## RNFs (Requisitos não funcionais)
 
 - [ ] O usuário deve ser identificado por um JWT (JSON Web Token);
-- [ ] Os dados da aplicação devem ser persistidos em um banco MySQL;
+- [x] Os dados da aplicação devem ser persistidos em um banco MySQL;
