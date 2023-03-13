@@ -9,7 +9,7 @@ Cookpedia.
 - [x] Deve ser possível se autenticar;
 - [x] Deve ser possível obter o perfil de um usuário logado;
 - [x] Deve ser possível cadastrar uma receita;
-- [ ] Deve ser possível publicar uma receita;
+- [x] Deve ser possível publicar uma receita;
 - [ ] Deve ser possível buscar todas as receitas;
 - [ ] Deve ser possível buscar as receitas recentes;
 - [ ] Deve ser possível buscar as receitas em rascunho do usuário logado;
@@ -22,7 +22,7 @@ Cookpedia.
 - [x] O usuário não deve poder se cadastrar com um e-mail duplicado;
 - [x] A senha do usuário deve ser hashed;
 - [ ] A senha do usuário deve conter no minimo 8 caracteres, sendo 1 número, 1 carater especial, 1 caracter minúsculo e maiusculo;
-- [x] O usuário não deve poder cadastrar uma receita com o mesmo nome;
+- [ ] O usuário não deve poder cadastrar uma receita com o mesmo nome | Revisar este requisito;
 
 ## RNFs (Requisitos não funcionais)
 
